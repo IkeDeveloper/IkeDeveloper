@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IkeDeveloper
 - 👀 I’m interested in Applications programming. This includes games and utility software
-- 🌱 I’m currently learning c++, c#, Java, Python
+- 🌱 I’m currently writing c++, c#, Java, Python and developing in the Unity and Unreal Game Engine envirnments
 - 📫 How to reach me at ikemuoma70@gmail.com
 
 <!---
